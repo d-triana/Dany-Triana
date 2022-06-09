@@ -36,6 +36,10 @@ feature:
     icon: books
     icon_pack: fas
     name: Books
+  - description:
+    icon: saxophone
+    icon_pack: fa
+    name: Jazz
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
