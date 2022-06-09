@@ -91,8 +91,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'AIzaSyCnmARMyRE-emhX__pp6EjDDZb4g2CQLJc'
     zoom: 15
 
 # Extensions
