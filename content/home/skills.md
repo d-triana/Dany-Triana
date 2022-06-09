@@ -38,7 +38,7 @@ feature:
     name: Books
   - description:
     icon: saxophone
-    icon_pack: fa
+    icon_pack: fas
     name: Jazz
     
 # Uncomment to use emoji icons.
