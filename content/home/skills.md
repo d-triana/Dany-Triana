@@ -30,12 +30,12 @@ feature:
     name: Statistics
   - description:
     icon: guitars
-    icon_pack: fas
-    name: guitars
+    icon_pack: fab
+    name: Guitars
   - description:
-    icon: books
-    icon_pack: fas
-    name: Books
+    icon: Books
+    icon_pack: fab
+    name: books
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
