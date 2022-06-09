@@ -59,7 +59,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/d-triana/
   - icon: orcid
-    ico_pack: ai
+    icon_pack: ai
     link: https://orcid.org/0000-0002-3092-5907
 
 # Link to a PDF of your resume/CV.
