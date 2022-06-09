@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills/Hobbies
 subtitle:
 
 # Showcase personal skills or business features.
@@ -30,12 +30,12 @@ feature:
     name: Statistics
   - description:
     icon: guitars
-    icon_pack: fab
+    icon_pack: fas
     name: Guitars
   - description:
-    icon: Books
-    icon_pack: fab
-    name: books
+    icon: books
+    icon_pack: fas
+    name: Books
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
