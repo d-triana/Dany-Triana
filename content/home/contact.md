@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '19.336384061084544'
     longitude: '-99.18865596931076'
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Lab 25, Facultad de Psicología Edificio D
   office_hours:
     - 'Monday 17:00 to 18:00'
   # appointment_url: 'https://calendly.com'
