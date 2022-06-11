@@ -78,6 +78,6 @@ highlight_name: true
 
 Daniel Triana is a Ph.D student at the Psychology Faculty of the Autonomous National University of Mexico (UNAM).
 He holds degrees in Economics and Political Science and his research focus is Behavioral Sciences, through the study of social network phenomena such as social media polarization, misinformation, echo-chambers, and political psychology, among other topics of interest. <p>
-Regarding professional experience, he comes from an Economics/Public Policy background and most of his professional career has been developed in the Mexican public sector. Currently, he holds a position at Mexico’s Central Bank, developing data-driven decisions for credit-risk assessments, a job performed in alignment with his academic activities. Additionally, he has been a statistics lecturer at the Iberoamerican University (IBERO) since 2019.
+Regarding professional experience, he comes from an Economics/Public Policy background and most of his professional career has been developed in the Mexican public sector. Currently, he holds a position at Mexico’s Central Bank, developing data-driven decisions for credit-risk assessments, a job performed in alignment with his academic activities. Additionally, he has been a Statistics lecturer at the Iberoamerican University (IBERO) since 2019.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
