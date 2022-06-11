@@ -9,25 +9,38 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills/Hobbies
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description:
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description:
+    icon: guitars
     icon_pack: fas
-    name: Photography
+    name: Guitars
+  - description:
+    icon: books
+    icon_pack: fas
+    name: Books
+  - description:
+    icon: saxophone
+    icon_pack: fas
+    name: Jazz
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

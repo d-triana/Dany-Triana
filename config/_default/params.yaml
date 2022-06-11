@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Daniel Triana: Academic personal website.'
+    twitter: 'd_triana'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -66,7 +66,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -91,8 +91,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'AIzaSyCnmARMyRE-emhX__pp6EjDDZb4g2CQLJc'
     zoom: 15
 
 # Extensions
