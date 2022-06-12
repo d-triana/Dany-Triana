@@ -12,6 +12,12 @@ weight: 50
 title: Skills/Hobbies
 subtitle:
 
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
+
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -29,15 +35,15 @@ feature:
     icon_pack: fas
     name: Statistics
   - description:
-    icon: guitars
+    icon: guitar
     icon_pack: fas
     name: Guitars
   - description:
-    icon: books
+    icon: book
     icon_pack: fas
     name: Books
   - description:
-    icon: saxophone
+    icon: music
     icon_pack: fas
     name: Jazz
     
